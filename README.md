@@ -3,13 +3,13 @@
 In order to prepare for a "silver tsunami", a manager at a large company known as Pewlett-Hackard requires an employee database to be constructed from various existing csv files in order to determine how many employees, by position, will be retiring in the near future as well as how many of those employees are eligible for a mentorship program to help train oncoming employees.
 
 ## Results
-- 72458 who are currently at the company will be retiring
+- There are 72458 employees who are currently at the company will be retiring.
 
 - The number of employees retiring by title are as follows:
 
 ![image](https://user-images.githubusercontent.com/112590378/195482859-429d8c78-b562-408e-9444-e8f147f8a87c.jpeg)
 
-- 1549 employees are eligible for the mentorship program
+- 1549 employees are eligible for the mentorship program.
 
 ## Summary
 According to the table, most of the retiring personel are part of the Senior Engineers or other Senior Staff.  The company should put the most effort into training or seeking employees for these roles.
